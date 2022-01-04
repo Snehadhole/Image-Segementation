@@ -29,4 +29,7 @@ INPUT:
 
 
 Output:
-![alt_text](
+
+
+
+![alt_text](https://github.com/Snehadhole/Image-Segementation/blob/main/lap51.jpeg?raw=true)
