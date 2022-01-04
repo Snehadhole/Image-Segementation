@@ -21,3 +21,7 @@ test_video.process_video("/content/my_video.mp4", show_bboxes = True,  output_vi
 
 
 INPUT:
+![alt text](https://github.com/Snehadhole/Image-Segementation/blob/main/10piclap6.jpeg.png?raw=true)
+
+
+
