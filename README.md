@@ -1,7 +1,10 @@
 # Image-Segementation
 Run the following Code for Inference
+
 !pip3 install pixellib
+
 import pixellib
+
 from pixellib.instance import custom_segmentation
 
 test_video = custom_segmentation()
