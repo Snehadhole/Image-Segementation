@@ -1,5 +1,9 @@
 # Image-Segementation
 Run the following Code for Inference
+#################################################
+LINK FOR .h5 FILE
+https://drive.google.com/file/d/1EVy2I6S54T4GwkFkx6aY54R5-Fm7TZyY/view?usp=sharing 
+######################################################
 
 !pip3 install pixellib
 
